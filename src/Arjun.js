@@ -22,7 +22,7 @@ class Arjun extends Component {
     //
     return (
       <div className="tc">
-        <h1>Arjun's Quick Robo </h1>
+        <h1>Arjun's Quick Robo Version 1</h1>
         <p>Please enter your name and see your Robo Version </p>
         <br />
 
@@ -44,6 +44,7 @@ class Arjun extends Component {
           />
         </form>
         <br />
+        <p>A Special thanks to Andrei & Yihua</p>
       </div>
     );
   }
