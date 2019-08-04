@@ -44,7 +44,7 @@ class Arjun extends Component {
           />
         </form>
         <br />
-        <p>A Special thanks to Andrei & Yihua</p>
+        <p>A Special thanks to Andrei & Yihua !!! </p>
       </div>
     );
   }
